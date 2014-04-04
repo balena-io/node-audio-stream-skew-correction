@@ -1,0 +1,17 @@
+{
+  "name": "audio-stream-correction-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petros Angelatos",
+  "dependencies": {
+    "lame": "^1.0.3",
+    "speaker": "0.0.10",
+    "through": "^2.3.4",
+    "coffee-script": "^1.7.1"
+  }
+}
